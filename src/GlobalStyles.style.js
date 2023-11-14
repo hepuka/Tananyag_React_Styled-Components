@@ -8,6 +8,7 @@ export const GlobalStyles = createGlobalStyle`
         background-color: pink;
         margin: 0;
         padding: 0;
+        box-sizing: border-box;
 
     }
 
